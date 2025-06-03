@@ -37,8 +37,8 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 [Music-Extended]
 enabled = true
 app-name = "RVX Music"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
+patches-source = "anddea/revanced-patches"
+cli-source = "revanced/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 arch = "both"
@@ -47,10 +47,10 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 [YouTube-Extended]
 enabled = true
 app-name = "RVX"
-patches-source = "inotia00/revanced-patches"
+patches-source = "anddea/revanced-patches"
 excluded-patches = ""
 included-patches = "'MaterialYou'"
-cli-source = "inotia00/revanced-cli"
+cli-source = "revanced/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
