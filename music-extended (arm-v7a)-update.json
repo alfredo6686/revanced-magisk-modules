@@ -1,6 +1,6 @@
 {
   "version": "v8.05.51 (patches: 3.9.0)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/alfredo6686/revanced-magisk-modules/releases/download/3/rvx-music-revanced-extended-magisk-v8.05.51-arm-v7a.zip",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/alfredo6686/revanced-magisk-modules/releases/download/6/rvx-music-revanced-extended-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/alfredo6686/revanced-magisk-modules/update/build.md"
 }
