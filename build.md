@@ -1,5 +1,5 @@
-GooglePhotos (arm64-v8a): 7.48.0.813334473  
-GooglePhotos (arm-v7a): 7.48.0.813334473  
+GooglePhotos (arm64-v8a): 7.49.0.816946145  
+GooglePhotos (arm-v7a): 7.49.0.816946145  
 IconPackStudio: 2.2 build 016  
 Music (arm64-v8a): 8.10.52  
 Music (arm-v7a): 8.10.52  
@@ -13,8 +13,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.42.1.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.42.1)  
+Patches: ReVanced/patches-5.43.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.43.0)  
 
 Skipped:  
-Patches: anddea/patches-3.14.0.rvp    
+Patches: anddea/patches-3.14.0.rvp      
