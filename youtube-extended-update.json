@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches: 3.14.0)",
-  "versionCode": 26,
-  "zipUrl": "https://github.com/alfredo6686/revanced-magisk-modules/releases/download/26/rvx-revanced-extended-magisk-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches: 3.15.0)",
+  "versionCode": 34,
+  "zipUrl": "https://github.com/alfredo6686/revanced-magisk-modules/releases/download/34/rvx-revanced-extended-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/alfredo6686/revanced-magisk-modules/update/build.md"
 }
