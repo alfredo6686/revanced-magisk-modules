@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches: 5.48.0)",
-  "versionCode": 35,
-  "zipUrl": "https://github.com/alfredo6686/revanced-magisk-modules/releases/download/35/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches: 5.50.2)",
+  "versionCode": 37,
+  "zipUrl": "https://github.com/alfredo6686/revanced-magisk-modules/releases/download/37/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/alfredo6686/revanced-magisk-modules/update/build.md"
 }
